@@ -1,0 +1,22 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ECE3DA;
+    color: #373B08;
+}
+
+h1 {
+    text-align: center;
+    background-color: #E8BA99;
+}
+
+ul.menu{
+    text-align: center;
+    list-style: lower-greek;
+    list-style-position: inside;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+}
