@@ -9,3 +9,6 @@ This is an HTML project based on the Odin Project course that will apply the les
 3. Use basic elements and tags: 
 4. Know the HTML boilerplate shortcut
 5. Know how to write good commit messages on Git
+6. Understand basic CSS commands
+7. Understand the CSS Box Model
+8. Know when to use Block & Inline elements in CSS
